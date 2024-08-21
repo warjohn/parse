@@ -6,7 +6,7 @@ from scrapy.utils.project import get_project_settings
 
 class FacultiesSpider(scrapy.Spider):
     name = "faculties_spider"
-    allowed_domains = ["ssmu.ru"]
+    allowed_domains = [""]
     start_urls = [
             "https"
     ]
