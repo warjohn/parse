@@ -145,7 +145,7 @@ class ExampleSpider(scrapy.Spider):
 ```
 Сохранение результатов 
 ```
-scrapy crawl <spider_name>
+scrapy crawl example_spider
 ```
 
 
