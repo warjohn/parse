@@ -92,7 +92,7 @@ DB_HOST = 'localhost'
 DB_PORT = '5432'
 ```
 
-## Scrapy Project c 0
+## Scrapy Project c нуля
 
 ## Установка и настройка окружения
 
