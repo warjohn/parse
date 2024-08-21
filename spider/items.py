@@ -11,6 +11,3 @@ class SsmuSpiderItem(scrapy.Item):
     # name = scrapy.Field()
     pass
 
-class MainItem(scrapy.Item):
-    text = scrapy.Field()
-    links = scrapy.Field()
