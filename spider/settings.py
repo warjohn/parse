@@ -13,9 +13,11 @@ SPIDER_MODULES = ["ssmu_spider.spiders"]
 NEWSPIDER_MODULE = "ssmu_spider.spiders"
 # settings.py
 
-DB_NAME = 'data_ssmu'
-DB_USER = 'menar'
-DB_PASSWORD = '852456'
+# DB - PostgreSQL
+
+DB_NAME = 'u_db_name'
+DB_USER = 'user_name'
+DB_PASSWORD = 'password'
 DB_HOST = 'localhost'  # или другой адрес вашего хоста
 DB_PORT = '5432'       # порт по умолчанию для PostgreSQL
 
