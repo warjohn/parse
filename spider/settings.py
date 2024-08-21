@@ -7,10 +7,10 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = "ssmu_spider"
+BOT_NAME = "spider"
 
-SPIDER_MODULES = ["ssmu_spider.spiders"]
-NEWSPIDER_MODULE = "ssmu_spider.spiders"
+SPIDER_MODULES = ["spider.spiders"]
+NEWSPIDER_MODULE = "spider.spiders"
 # settings.py
 
 # DB - PostgreSQL
